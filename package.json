@@ -1,0 +1,24 @@
+{
+  "name": "nodejs_tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-IntroApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chikeokoli/Nodejs_tut.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chikeokoli/Nodejs_tut/issues"
+  },
+  "homepage": "https://github.com/chikeokoli/Nodejs_tut#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "lodash": "^4.17.21"
+  }
+}
